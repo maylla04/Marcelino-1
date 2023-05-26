@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Maylla",
+      "num_inscricao": "4485425",
+      "curso": "Info"
+    },
+    {
+      "id": 2,
+      "nome": "Helder",
+      "num_inscricao": "4485256",
+      "curso": "Tads"
+    },
+    {
+      "nome": "Renato",
+      "curso": "Tads",
+      "num_inscricao": "0487353",
+      "id": 5
+    },
+    {
+      "nome": "Helder",
+      "curso": "TADS",
+      "num_inscricao": "18062004",
+      "id": 6
+    }
+  ]
+}
