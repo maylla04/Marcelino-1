@@ -35,6 +35,7 @@ export default async function Home() {
             <p className="border p-6 hover:bg-zinc-800 ml-9">{aluno.curso}</p>
 
             <button className="border p-6 hover:bg-zinc-800 ml-9" onClick={e => e.preventDefault(remover(aluno.id))}>REMOVER</button>
+            <Link href={'/alterar/${aluno.id}'} className="border p-6 hover:bg-zinc-800 ml-9">Alterar</Link>
            </div>
            )}
            
